@@ -1,0 +1,23 @@
+{
+	"mugs": [
+		{
+			"id": 1,
+			"name": "Black ceramic mug"
+			"description": "A black mug made from ceramic"
+		},
+		{
+			"id": 2,
+			"name": "White ceramic mug"
+			"description": "A white mug made from ceramic"
+		},
+		{
+			"id": 3,
+			"name": "Red ceramic mug"
+			"description": "A red mug made from ceramic"
+		},
+		{
+			"id": 4,
+			"name": "Blue ceramic mug"
+			"description": "A blue mug made from ceramic"
+		},
+}
